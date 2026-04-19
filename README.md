@@ -136,7 +136,7 @@ This project demonstrates:
 🎓 CSE Student | 💻 Backend Developer |
 
 📧 Email: [gagangowdaks958@gmail.com](mailto:gagangowdaks958@gmail.com)
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub:[ https://github.com/iamgagangowdaks](https://github.com/iamgagangowdaks)
 
 ---
 
